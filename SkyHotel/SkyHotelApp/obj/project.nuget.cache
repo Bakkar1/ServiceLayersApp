@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Te7XzpebL11cUvRU2Zrth3OEKntvXwCwswXNxB9Tx9klQ5uCgbogj0ylpnro6W+jWZRz8ZrmU6ALF7CKlvIMGQ==",
+  "dgSpecHash": "tP6IpR6h5s28qhOaYVGz0T2BjUwWefOJvmgt93U4zHeMOF/vI4kmr5iNso0EEc4+yE7Vdh5obcTOyQuwp7aF5w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mbark\\Documents\\GitHub\\Mk_Hotel\\SkyHotel\\SkyHotelApp\\SkyHotelApp.csproj",
+  "projectFilePath": "C:\\Users\\mbark\\Documents\\GitHub\\ServiceLayersApp\\SkyHotel\\SkyHotelApp\\SkyHotelApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mbark\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\mbark\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\mbark\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\mbark\\.nuget\\packages\\microsoft.aspnetcore.authentication.facebook\\6.0.4\\microsoft.aspnetcore.authentication.facebook.6.0.4.nupkg.sha512",
     "C:\\Users\\mbark\\.nuget\\packages\\microsoft.aspnetcore.authentication.google\\6.0.4\\microsoft.aspnetcore.authentication.google.6.0.4.nupkg.sha512",
     "C:\\Users\\mbark\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.4\\microsoft.aspnetcore.cryptography.internal.6.0.4.nupkg.sha512",
@@ -23,7 +25,7 @@
     "C:\\Users\\mbark\\.nuget\\packages\\microsoft.extensions.caching.memory\\6.0.1\\microsoft.extensions.caching.memory.6.0.1.nupkg.sha512",
     "C:\\Users\\mbark\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\mbark\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
-    "C:\\Users\\mbark\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\mbark\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\mbark\\.nuget\\packages\\microsoft.extensions.identity.core\\6.0.4\\microsoft.extensions.identity.core.6.0.4.nupkg.sha512",
     "C:\\Users\\mbark\\.nuget\\packages\\microsoft.extensions.identity.stores\\6.0.4\\microsoft.extensions.identity.stores.6.0.4.nupkg.sha512",
     "C:\\Users\\mbark\\.nuget\\packages\\microsoft.extensions.logging\\6.0.0\\microsoft.extensions.logging.6.0.0.nupkg.sha512",

@@ -7,11 +7,17 @@
   </PropertyGroup>
 	
 	<ItemGroup>
+		<PackageReference Include="MediatR" Version="12.2.0" />
 		<PackageReference Include="Microsoft.AspNetCore.Authentication.Facebook" Version="6.0.4" />
 		<PackageReference Include="Microsoft.AspNetCore.Authentication.Google" Version="6.0.4" />
 	</ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\DataAccessLayer\DataAccessLayer.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Features\Commands\Delete\" />
+    <Folder Include="Features\Commands\Update\" />
+    <Folder Include="Features\Queries\Get\" />
   </ItemGroup>
 
 </Project>

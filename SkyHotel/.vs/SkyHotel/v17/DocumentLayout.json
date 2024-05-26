@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\mbark\\Documents\\GitHub\\Mk_Hotel\\SkyHotel\\",
+  "WorkspaceRootPath": "C:\\Users\\mbark\\Documents\\GitHub\\ServiceLayersApp\\SkyHotel\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1CA525D7-4214-454F-9AB5-5E9B28703C89}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\mbark\\documents\\github\\mk_hotel\\skyhotel\\presentationlayer\\todocontrol.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1CA525D7-4214-454F-9AB5-5E9B28703C89}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\todocontrol.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2B64457F-8410-4493-8B80-2867C049DB4F}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\mbark\\documents\\github\\servicelayersapp\\skyhotel\\businesslogiclayer\\features\\commands\\add\\addtodocommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B64457F-8410-4493-8B80-2867C049DB4F}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\features\\commands\\add\\addtodocommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B64457F-8410-4493-8B80-2867C049DB4F}|BusinessLogicLayer\\BusinessLogicLayer.csproj|C:\\Users\\mbark\\Documents\\GitHub\\Mk_Hotel\\SkyHotel\\businesslogiclayer\\services\\general\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B64457F-8410-4493-8B80-2867C049DB4F}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\services\\general\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3599977C-43E8-4D13-98DF-E1870365A6F1}|SkyHotelApp\\SkyHotelApp.csproj|c:\\users\\mbark\\documents\\github\\servicelayersapp\\skyhotel\\skyhotelapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3599977C-43E8-4D13-98DF-E1870365A6F1}|SkyHotelApp\\SkyHotelApp.csproj|solutionrelative:skyhotelapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,27 +38,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TodoService.cs",
-              "DocumentMoniker": "C:\\Users\\mbark\\Documents\\GitHub\\Mk_Hotel\\SkyHotel\\BusinessLogicLayer\\Services\\General\\TodoService.cs",
-              "RelativeDocumentMoniker": "BusinessLogicLayer\\Services\\General\\TodoService.cs",
-              "ToolTip": "C:\\Users\\mbark\\Documents\\GitHub\\Mk_Hotel\\SkyHotel\\BusinessLogicLayer\\Services\\General\\TodoService.cs",
-              "RelativeToolTip": "BusinessLogicLayer\\Services\\General\\TodoService.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAA5wCUAAAAZAAAA",
+              "DocumentIndex": 0,
+              "Title": "AddTodoCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\mbark\\Documents\\GitHub\\ServiceLayersApp\\SkyHotel\\BusinessLogicLayer\\Features\\Commands\\Add\\AddTodoCommandHandler.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Features\\Commands\\Add\\AddTodoCommandHandler.cs",
+              "ToolTip": "C:\\Users\\mbark\\Documents\\GitHub\\ServiceLayersApp\\SkyHotel\\BusinessLogicLayer\\Features\\Commands\\Add\\AddTodoCommandHandler.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Features\\Commands\\Add\\AddTodoCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T15:17:17.947Z"
+              "WhenOpened": "2024-05-26T14:27:00.291Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TodoControl.razor",
-              "DocumentMoniker": "C:\\Users\\mbark\\Documents\\GitHub\\Mk_Hotel\\SkyHotel\\PresentationLayer\\TodoControl.razor",
-              "RelativeDocumentMoniker": "PresentationLayer\\TodoControl.razor",
-              "ToolTip": "C:\\Users\\mbark\\Documents\\GitHub\\Mk_Hotel\\SkyHotel\\PresentationLayer\\TodoControl.razor",
-              "RelativeToolTip": "PresentationLayer\\TodoControl.razor",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAACIAAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-24T14:58:54.548Z",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mbark\\Documents\\GitHub\\ServiceLayersApp\\SkyHotel\\SkyHotelApp\\Program.cs",
+              "RelativeDocumentMoniker": "SkyHotelApp\\Program.cs",
+              "ToolTip": "C:\\Users\\mbark\\Documents\\GitHub\\ServiceLayersApp\\SkyHotel\\SkyHotelApp\\Program.cs",
+              "RelativeToolTip": "SkyHotelApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T14:23:11.795Z",
               "EditorCaption": ""
             }
           ]

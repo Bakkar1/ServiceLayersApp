@@ -1,7 +1,9 @@
 ﻿using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using DataAccessLayer.Extension;
-using BusinessLogicLayer.Services.General;
+using BusinessLogicLayer.Repositories.General;
+using MediatR;
+using BusinessLogicLayer.Features.Commands.Add;
 
 namespace BusinessLogicLayer.Extension
 {
@@ -12,6 +14,11 @@ namespace BusinessLogicLayer.Extension
             services.AddDataServices(configuration);
             // services
             services.AddScoped<ITodoService, TodoService>();
+
+            //services.AddTransient<IValidator<AddItemCommand>, AddItemValidator>();
+            // Register your command handler
+            services.AddTransient<IRequestHandler<AddTodoCommand, bool>, AddTodoCommandHandler>();
+
             return services;
         }
     }

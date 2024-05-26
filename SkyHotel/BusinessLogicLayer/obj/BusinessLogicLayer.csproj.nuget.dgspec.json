@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mbark\\Documents\\GitHub\\Mk_Hotel\\SkyHotel\\BusinessLogicLayer\\BusinessLogicLayer.csproj": {}
+    "C:\\Users\\mbark\\Documents\\GitHub\\ServiceLayersApp\\SkyHotel\\BusinessLogicLayer\\BusinessLogicLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mbark\\Documents\\GitHub\\Mk_Hotel\\SkyHotel\\BusinessLogicLayer\\BusinessLogicLayer.csproj": {
+    "C:\\Users\\mbark\\Documents\\GitHub\\ServiceLayersApp\\SkyHotel\\BusinessLogicLayer\\BusinessLogicLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mbark\\Documents\\GitHub\\Mk_Hotel\\SkyHotel\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
+        "projectUniqueName": "C:\\Users\\mbark\\Documents\\GitHub\\ServiceLayersApp\\SkyHotel\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
         "projectName": "BusinessLogicLayer",
-        "projectPath": "C:\\Users\\mbark\\Documents\\GitHub\\Mk_Hotel\\SkyHotel\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
+        "projectPath": "C:\\Users\\mbark\\Documents\\GitHub\\ServiceLayersApp\\SkyHotel\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
         "packagesPath": "C:\\Users\\mbark\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mbark\\Documents\\GitHub\\Mk_Hotel\\SkyHotel\\BusinessLogicLayer\\obj\\",
+        "outputPath": "C:\\Users\\mbark\\Documents\\GitHub\\ServiceLayersApp\\SkyHotel\\BusinessLogicLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -26,14 +26,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Users\\mbark\\.nuget\\packages": {}
+          "C:\\Users\\mbark\\.nuget\\packages": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\mbark\\Documents\\GitHub\\Mk_Hotel\\SkyHotel\\DataAccessLayer\\DataAccessLayer.csproj": {
-                "projectPath": "C:\\Users\\mbark\\Documents\\GitHub\\Mk_Hotel\\SkyHotel\\DataAccessLayer\\DataAccessLayer.csproj"
+              "C:\\Users\\mbark\\Documents\\GitHub\\ServiceLayersApp\\SkyHotel\\DataAccessLayer\\DataAccessLayer.csproj": {
+                "projectPath": "C:\\Users\\mbark\\Documents\\GitHub\\ServiceLayersApp\\SkyHotel\\DataAccessLayer\\DataAccessLayer.csproj"
               }
             }
           }
@@ -53,6 +54,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.2.0, )"
+            },
             "Microsoft.AspNetCore.Authentication.Facebook": {
               "target": "Package",
               "version": "[6.0.4, )"
@@ -82,14 +87,14 @@
         }
       }
     },
-    "C:\\Users\\mbark\\Documents\\GitHub\\Mk_Hotel\\SkyHotel\\DataAccessLayer\\DataAccessLayer.csproj": {
+    "C:\\Users\\mbark\\Documents\\GitHub\\ServiceLayersApp\\SkyHotel\\DataAccessLayer\\DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mbark\\Documents\\GitHub\\Mk_Hotel\\SkyHotel\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\mbark\\Documents\\GitHub\\ServiceLayersApp\\SkyHotel\\DataAccessLayer\\DataAccessLayer.csproj",
         "projectName": "DataAccessLayer",
-        "projectPath": "C:\\Users\\mbark\\Documents\\GitHub\\Mk_Hotel\\SkyHotel\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectPath": "C:\\Users\\mbark\\Documents\\GitHub\\ServiceLayersApp\\SkyHotel\\DataAccessLayer\\DataAccessLayer.csproj",
         "packagesPath": "C:\\Users\\mbark\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mbark\\Documents\\GitHub\\Mk_Hotel\\SkyHotel\\DataAccessLayer\\obj\\",
+        "outputPath": "C:\\Users\\mbark\\Documents\\GitHub\\ServiceLayersApp\\SkyHotel\\DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -104,7 +109,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Users\\mbark\\.nuget\\packages": {}
+          "C:\\Users\\mbark\\.nuget\\packages": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {

@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BusinessLogicLayer.Services.General
+namespace BusinessLogicLayer.Repositories.General
 {
     public class TodoService : ITodoService
     {
@@ -28,7 +28,7 @@ namespace BusinessLogicLayer.Services.General
         public async Task<bool> CompleteTodo(int todoId)
         {
             var todoItem = _context.TodoItems.FirstOrDefault(x => x.Id == todoId);
-            if(todoItem is not null)
+            if (todoItem is not null)
             {
                 todoItem.IsCompleted = true;
                 _context.TodoItems.Update(todoItem);

@@ -1,5 +1,6 @@
-﻿@inject ITodoService todoService
-@using Microsoft.AspNetCore.Components.Forms
+﻿@inject ITodoService _todoService
+@inject IMediator _mediator
+@using BusinessLogicLayer.Features.Commands.Add
 @page "/todos"
 
 <EditForm Model="@todo">
@@ -57,12 +58,15 @@ else
 
     protected override async Task OnInitializedAsync()
     {
-        todos = await todoService.GetTodos();
+        todos = await _todoService.GetTodos();
     }
     private async Task AddTodo()
     {
         todo.IsCompleted = false;
-        bool result = await todoService.AddTodo(todo);
+        //bool result = await _todoService.AddTodo(todo);
+        var command = new AddTodoCommand { TodoItem = todo };
+        var result = await _mediator.Send(command);
+
         if(result is true)
         {
             todos.Add(todo);
@@ -75,7 +79,7 @@ else
     }
     private async Task CompleteTodo(int todoId)
     {
-        bool isCompleted = await todoService.CompleteTodo(todoId);
+        bool isCompleted = await _todoService.CompleteTodo(todoId);
         if (isCompleted)
         {
             var todoItem = todos.SingleOrDefault(t => t.Id == todoId);

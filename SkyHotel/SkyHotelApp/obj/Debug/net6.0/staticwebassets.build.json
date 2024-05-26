@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "J/XT4EtVx6qacd0Y0yIXbS8sJ5vjV3AmHXBcXzDFsG4=",
+  "Hash": "xvaTB8HxfFzfcx3F29KXpOvlO+QmHgb2k82xcGcTgOQ=",
   "Source": "SkyHotelApp",
   "BasePath": "_content/SkyHotelApp",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "C:\\Users\\mbark\\Documents\\GitHub\\Mk_Hotel\\SkyHotel\\PresentationLayer\\PresentationLayer.csproj",
+      "Identity": "C:\\Users\\mbark\\Documents\\GitHub\\ServiceLayersApp\\SkyHotel\\PresentationLayer\\PresentationLayer.csproj",
       "Version": 2,
       "Source": "PresentationLayer",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
@@ -22,24 +22,24 @@
     {
       "Name": "PresentationLayer\\wwwroot",
       "Source": "PresentationLayer",
-      "ContentRoot": "C:\\Users\\mbark\\Documents\\GitHub\\Mk_Hotel\\SkyHotel\\PresentationLayer\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mbark\\Documents\\GitHub\\ServiceLayersApp\\SkyHotel\\PresentationLayer\\wwwroot\\",
       "BasePath": "_content/PresentationLayer",
       "Pattern": "**"
     },
     {
       "Name": "SkyHotelApp\\wwwroot",
       "Source": "SkyHotelApp",
-      "ContentRoot": "C:\\Users\\mbark\\Documents\\GitHub\\Mk_Hotel\\SkyHotel\\SkyHotelApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mbark\\Documents\\GitHub\\ServiceLayersApp\\SkyHotel\\SkyHotelApp\\wwwroot\\",
       "BasePath": "_content/SkyHotelApp",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\mbark\\Documents\\GitHub\\Mk_Hotel\\SkyHotel\\PresentationLayer\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\PresentationLayer.bundle.scp.css",
+      "Identity": "C:\\Users\\mbark\\Documents\\GitHub\\ServiceLayersApp\\SkyHotel\\PresentationLayer\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\PresentationLayer.bundle.scp.css",
       "SourceId": "PresentationLayer",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\mbark\\Documents\\GitHub\\Mk_Hotel\\SkyHotel\\PresentationLayer\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\mbark\\Documents\\GitHub\\ServiceLayersApp\\SkyHotel\\PresentationLayer\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/PresentationLayer",
       "RelativePath": "PresentationLayer.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\mbark\\Documents\\GitHub\\Mk_Hotel\\SkyHotel\\PresentationLayer\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\PresentationLayer.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\mbark\\Documents\\GitHub\\ServiceLayersApp\\SkyHotel\\PresentationLayer\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\PresentationLayer.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\mbark\\Documents\\GitHub\\Mk_Hotel\\SkyHotel\\PresentationLayer\\wwwroot\\background.png",
+      "Identity": "C:\\Users\\mbark\\Documents\\GitHub\\ServiceLayersApp\\SkyHotel\\PresentationLayer\\wwwroot\\background.png",
       "SourceId": "PresentationLayer",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\mbark\\Documents\\GitHub\\Mk_Hotel\\SkyHotel\\PresentationLayer\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mbark\\Documents\\GitHub\\ServiceLayersApp\\SkyHotel\\PresentationLayer\\wwwroot\\",
       "BasePath": "_content/PresentationLayer",
       "RelativePath": "background.png",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\background.png"
     },
     {
-      "Identity": "C:\\Users\\mbark\\Documents\\GitHub\\Mk_Hotel\\SkyHotel\\PresentationLayer\\wwwroot\\exampleJsInterop.js",
+      "Identity": "C:\\Users\\mbark\\Documents\\GitHub\\ServiceLayersApp\\SkyHotel\\PresentationLayer\\wwwroot\\exampleJsInterop.js",
       "SourceId": "PresentationLayer",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\mbark\\Documents\\GitHub\\Mk_Hotel\\SkyHotel\\PresentationLayer\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mbark\\Documents\\GitHub\\ServiceLayersApp\\SkyHotel\\PresentationLayer\\wwwroot\\",
       "BasePath": "_content/PresentationLayer",
       "RelativePath": "exampleJsInterop.js",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\exampleJsInterop.js"
     },
     {
-      "Identity": "C:\\Users\\mbark\\Documents\\GitHub\\Mk_Hotel\\SkyHotel\\SkyHotelApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\SkyHotelApp.styles.css",
+      "Identity": "C:\\Users\\mbark\\Documents\\GitHub\\ServiceLayersApp\\SkyHotel\\SkyHotelApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\SkyHotelApp.styles.css",
       "SourceId": "SkyHotelApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\mbark\\Documents\\GitHub\\Mk_Hotel\\SkyHotel\\SkyHotelApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\mbark\\Documents\\GitHub\\ServiceLayersApp\\SkyHotel\\SkyHotelApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/SkyHotelApp",
       "RelativePath": "SkyHotelApp.styles.css",
       "AssetKind": "All",
@@ -109,13 +109,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\mbark\\Documents\\GitHub\\Mk_Hotel\\SkyHotel\\SkyHotelApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\SkyHotelApp.styles.css"
+      "OriginalItemSpec": "C:\\Users\\mbark\\Documents\\GitHub\\ServiceLayersApp\\SkyHotel\\SkyHotelApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\SkyHotelApp.styles.css"
     },
     {
-      "Identity": "C:\\Users\\mbark\\Documents\\GitHub\\Mk_Hotel\\SkyHotel\\SkyHotelApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\SkyHotelApp.bundle.scp.css",
+      "Identity": "C:\\Users\\mbark\\Documents\\GitHub\\ServiceLayersApp\\SkyHotel\\SkyHotelApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\SkyHotelApp.bundle.scp.css",
       "SourceId": "SkyHotelApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\mbark\\Documents\\GitHub\\Mk_Hotel\\SkyHotel\\SkyHotelApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\mbark\\Documents\\GitHub\\ServiceLayersApp\\SkyHotel\\SkyHotelApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/SkyHotelApp",
       "RelativePath": "SkyHotelApp.bundle.scp.css",
       "AssetKind": "All",
@@ -128,13 +128,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\mbark\\Documents\\GitHub\\Mk_Hotel\\SkyHotel\\SkyHotelApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\SkyHotelApp.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\mbark\\Documents\\GitHub\\ServiceLayersApp\\SkyHotel\\SkyHotelApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\SkyHotelApp.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\mbark\\Documents\\GitHub\\Mk_Hotel\\SkyHotel\\SkyHotelApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\mbark\\Documents\\GitHub\\ServiceLayersApp\\SkyHotel\\SkyHotelApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "SkyHotelApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mbark\\Documents\\GitHub\\Mk_Hotel\\SkyHotel\\SkyHotelApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mbark\\Documents\\GitHub\\ServiceLayersApp\\SkyHotel\\SkyHotelApp\\wwwroot\\",
       "BasePath": "_content/SkyHotelApp",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\mbark\\Documents\\GitHub\\Mk_Hotel\\SkyHotel\\SkyHotelApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\mbark\\Documents\\GitHub\\ServiceLayersApp\\SkyHotel\\SkyHotelApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "SkyHotelApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mbark\\Documents\\GitHub\\Mk_Hotel\\SkyHotel\\SkyHotelApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mbark\\Documents\\GitHub\\ServiceLayersApp\\SkyHotel\\SkyHotelApp\\wwwroot\\",
       "BasePath": "_content/SkyHotelApp",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\mbark\\Documents\\GitHub\\Mk_Hotel\\SkyHotel\\SkyHotelApp\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "C:\\Users\\mbark\\Documents\\GitHub\\ServiceLayersApp\\SkyHotel\\SkyHotelApp\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "SkyHotelApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mbark\\Documents\\GitHub\\Mk_Hotel\\SkyHotel\\SkyHotelApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mbark\\Documents\\GitHub\\ServiceLayersApp\\SkyHotel\\SkyHotelApp\\wwwroot\\",
       "BasePath": "_content/SkyHotelApp",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\mbark\\Documents\\GitHub\\Mk_Hotel\\SkyHotel\\SkyHotelApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "C:\\Users\\mbark\\Documents\\GitHub\\ServiceLayersApp\\SkyHotel\\SkyHotelApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "SkyHotelApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mbark\\Documents\\GitHub\\Mk_Hotel\\SkyHotel\\SkyHotelApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mbark\\Documents\\GitHub\\ServiceLayersApp\\SkyHotel\\SkyHotelApp\\wwwroot\\",
       "BasePath": "_content/SkyHotelApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "C:\\Users\\mbark\\Documents\\GitHub\\Mk_Hotel\\SkyHotel\\SkyHotelApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "C:\\Users\\mbark\\Documents\\GitHub\\ServiceLayersApp\\SkyHotel\\SkyHotelApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "SkyHotelApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mbark\\Documents\\GitHub\\Mk_Hotel\\SkyHotel\\SkyHotelApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mbark\\Documents\\GitHub\\ServiceLayersApp\\SkyHotel\\SkyHotelApp\\wwwroot\\",
       "BasePath": "_content/SkyHotelApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "C:\\Users\\mbark\\Documents\\GitHub\\Mk_Hotel\\SkyHotel\\SkyHotelApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "C:\\Users\\mbark\\Documents\\GitHub\\ServiceLayersApp\\SkyHotel\\SkyHotelApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "SkyHotelApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mbark\\Documents\\GitHub\\Mk_Hotel\\SkyHotel\\SkyHotelApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mbark\\Documents\\GitHub\\ServiceLayersApp\\SkyHotel\\SkyHotelApp\\wwwroot\\",
       "BasePath": "_content/SkyHotelApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "C:\\Users\\mbark\\Documents\\GitHub\\Mk_Hotel\\SkyHotel\\SkyHotelApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "C:\\Users\\mbark\\Documents\\GitHub\\ServiceLayersApp\\SkyHotel\\SkyHotelApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "SkyHotelApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mbark\\Documents\\GitHub\\Mk_Hotel\\SkyHotel\\SkyHotelApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mbark\\Documents\\GitHub\\ServiceLayersApp\\SkyHotel\\SkyHotelApp\\wwwroot\\",
       "BasePath": "_content/SkyHotelApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "C:\\Users\\mbark\\Documents\\GitHub\\Mk_Hotel\\SkyHotel\\SkyHotelApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "C:\\Users\\mbark\\Documents\\GitHub\\ServiceLayersApp\\SkyHotel\\SkyHotelApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "SkyHotelApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mbark\\Documents\\GitHub\\Mk_Hotel\\SkyHotel\\SkyHotelApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mbark\\Documents\\GitHub\\ServiceLayersApp\\SkyHotel\\SkyHotelApp\\wwwroot\\",
       "BasePath": "_content/SkyHotelApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "C:\\Users\\mbark\\Documents\\GitHub\\Mk_Hotel\\SkyHotel\\SkyHotelApp\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "C:\\Users\\mbark\\Documents\\GitHub\\ServiceLayersApp\\SkyHotel\\SkyHotelApp\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "SkyHotelApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mbark\\Documents\\GitHub\\Mk_Hotel\\SkyHotel\\SkyHotelApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mbark\\Documents\\GitHub\\ServiceLayersApp\\SkyHotel\\SkyHotelApp\\wwwroot\\",
       "BasePath": "_content/SkyHotelApp",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\mbark\\Documents\\GitHub\\Mk_Hotel\\SkyHotel\\SkyHotelApp\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "C:\\Users\\mbark\\Documents\\GitHub\\ServiceLayersApp\\SkyHotel\\SkyHotelApp\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "SkyHotelApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mbark\\Documents\\GitHub\\Mk_Hotel\\SkyHotel\\SkyHotelApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mbark\\Documents\\GitHub\\ServiceLayersApp\\SkyHotel\\SkyHotelApp\\wwwroot\\",
       "BasePath": "_content/SkyHotelApp",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\mbark\\Documents\\GitHub\\Mk_Hotel\\SkyHotel\\SkyHotelApp\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "C:\\Users\\mbark\\Documents\\GitHub\\ServiceLayersApp\\SkyHotel\\SkyHotelApp\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "SkyHotelApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mbark\\Documents\\GitHub\\Mk_Hotel\\SkyHotel\\SkyHotelApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mbark\\Documents\\GitHub\\ServiceLayersApp\\SkyHotel\\SkyHotelApp\\wwwroot\\",
       "BasePath": "_content/SkyHotelApp",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "C:\\Users\\mbark\\Documents\\GitHub\\Mk_Hotel\\SkyHotel\\SkyHotelApp\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\mbark\\Documents\\GitHub\\ServiceLayersApp\\SkyHotel\\SkyHotelApp\\wwwroot\\css\\site.css",
       "SourceId": "SkyHotelApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mbark\\Documents\\GitHub\\Mk_Hotel\\SkyHotel\\SkyHotelApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mbark\\Documents\\GitHub\\ServiceLayersApp\\SkyHotel\\SkyHotelApp\\wwwroot\\",
       "BasePath": "_content/SkyHotelApp",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\mbark\\Documents\\GitHub\\Mk_Hotel\\SkyHotel\\SkyHotelApp\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\mbark\\Documents\\GitHub\\ServiceLayersApp\\SkyHotel\\SkyHotelApp\\wwwroot\\favicon.ico",
       "SourceId": "SkyHotelApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mbark\\Documents\\GitHub\\Mk_Hotel\\SkyHotel\\SkyHotelApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mbark\\Documents\\GitHub\\ServiceLayersApp\\SkyHotel\\SkyHotelApp\\wwwroot\\",
       "BasePath": "_content/SkyHotelApp",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",

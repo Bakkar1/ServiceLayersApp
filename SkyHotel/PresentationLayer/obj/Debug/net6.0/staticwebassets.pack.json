@@ -1,15 +1,15 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\mbark\\Documents\\GitHub\\Mk_Hotel\\SkyHotel\\PresentationLayer\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\PresentationLayer.bundle.scp.css",
+      "Id": "C:\\Users\\mbark\\Documents\\GitHub\\ServiceLayersApp\\SkyHotel\\PresentationLayer\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\PresentationLayer.bundle.scp.css",
       "PackagePath": "staticwebassets\\PresentationLayer.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\mbark\\Documents\\GitHub\\Mk_Hotel\\SkyHotel\\PresentationLayer\\wwwroot\\background.png",
+      "Id": "C:\\Users\\mbark\\Documents\\GitHub\\ServiceLayersApp\\SkyHotel\\PresentationLayer\\wwwroot\\background.png",
       "PackagePath": "staticwebassets\\background.png"
     },
     {
-      "Id": "C:\\Users\\mbark\\Documents\\GitHub\\Mk_Hotel\\SkyHotel\\PresentationLayer\\wwwroot\\exampleJsInterop.js",
+      "Id": "C:\\Users\\mbark\\Documents\\GitHub\\ServiceLayersApp\\SkyHotel\\PresentationLayer\\wwwroot\\exampleJsInterop.js",
       "PackagePath": "staticwebassets\\exampleJsInterop.js"
     },
     {

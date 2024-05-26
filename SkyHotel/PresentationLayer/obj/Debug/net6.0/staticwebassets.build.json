@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "opdaOtlUn98IFjjpQgJHweBM+3jFNKcezRY9/RUjvg0=",
+  "Hash": "ZB0GB4zuqGR3KbGMKkt1HA8+6kseR3QYHkiGWMUXlPU=",
   "Source": "PresentationLayer",
   "BasePath": "_content/PresentationLayer",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "PresentationLayer\\wwwroot",
       "Source": "PresentationLayer",
-      "ContentRoot": "C:\\Users\\mbark\\Documents\\GitHub\\Mk_Hotel\\SkyHotel\\PresentationLayer\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mbark\\Documents\\GitHub\\ServiceLayersApp\\SkyHotel\\PresentationLayer\\wwwroot\\",
       "BasePath": "_content/PresentationLayer",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\mbark\\Documents\\GitHub\\Mk_Hotel\\SkyHotel\\PresentationLayer\\obj\\Debug\\net6.0\\scopedcss\\bundle\\PresentationLayer.styles.css",
+      "Identity": "C:\\Users\\mbark\\Documents\\GitHub\\ServiceLayersApp\\SkyHotel\\PresentationLayer\\obj\\Debug\\net6.0\\scopedcss\\bundle\\PresentationLayer.styles.css",
       "SourceId": "PresentationLayer",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\mbark\\Documents\\GitHub\\Mk_Hotel\\SkyHotel\\PresentationLayer\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\mbark\\Documents\\GitHub\\ServiceLayersApp\\SkyHotel\\PresentationLayer\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/PresentationLayer",
       "RelativePath": "PresentationLayer.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\mbark\\Documents\\GitHub\\Mk_Hotel\\SkyHotel\\PresentationLayer\\obj\\Debug\\net6.0\\scopedcss\\bundle\\PresentationLayer.styles.css"
+      "OriginalItemSpec": "C:\\Users\\mbark\\Documents\\GitHub\\ServiceLayersApp\\SkyHotel\\PresentationLayer\\obj\\Debug\\net6.0\\scopedcss\\bundle\\PresentationLayer.styles.css"
     },
     {
-      "Identity": "C:\\Users\\mbark\\Documents\\GitHub\\Mk_Hotel\\SkyHotel\\PresentationLayer\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\PresentationLayer.bundle.scp.css",
+      "Identity": "C:\\Users\\mbark\\Documents\\GitHub\\ServiceLayersApp\\SkyHotel\\PresentationLayer\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\PresentationLayer.bundle.scp.css",
       "SourceId": "PresentationLayer",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\mbark\\Documents\\GitHub\\Mk_Hotel\\SkyHotel\\PresentationLayer\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\mbark\\Documents\\GitHub\\ServiceLayersApp\\SkyHotel\\PresentationLayer\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/PresentationLayer",
       "RelativePath": "PresentationLayer.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\mbark\\Documents\\GitHub\\Mk_Hotel\\SkyHotel\\PresentationLayer\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\PresentationLayer.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\mbark\\Documents\\GitHub\\ServiceLayersApp\\SkyHotel\\PresentationLayer\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\PresentationLayer.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\mbark\\Documents\\GitHub\\Mk_Hotel\\SkyHotel\\PresentationLayer\\wwwroot\\background.png",
+      "Identity": "C:\\Users\\mbark\\Documents\\GitHub\\ServiceLayersApp\\SkyHotel\\PresentationLayer\\wwwroot\\background.png",
       "SourceId": "PresentationLayer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mbark\\Documents\\GitHub\\Mk_Hotel\\SkyHotel\\PresentationLayer\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mbark\\Documents\\GitHub\\ServiceLayersApp\\SkyHotel\\PresentationLayer\\wwwroot\\",
       "BasePath": "_content/PresentationLayer",
       "RelativePath": "background.png",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\background.png"
     },
     {
-      "Identity": "C:\\Users\\mbark\\Documents\\GitHub\\Mk_Hotel\\SkyHotel\\PresentationLayer\\wwwroot\\exampleJsInterop.js",
+      "Identity": "C:\\Users\\mbark\\Documents\\GitHub\\ServiceLayersApp\\SkyHotel\\PresentationLayer\\wwwroot\\exampleJsInterop.js",
       "SourceId": "PresentationLayer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mbark\\Documents\\GitHub\\Mk_Hotel\\SkyHotel\\PresentationLayer\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mbark\\Documents\\GitHub\\ServiceLayersApp\\SkyHotel\\PresentationLayer\\wwwroot\\",
       "BasePath": "_content/PresentationLayer",
       "RelativePath": "exampleJsInterop.js",
       "AssetKind": "All",

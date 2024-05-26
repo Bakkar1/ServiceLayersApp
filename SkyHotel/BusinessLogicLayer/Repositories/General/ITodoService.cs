@@ -1,6 +1,6 @@
 ﻿using DataAccessLayer.Model;
 
-namespace BusinessLogicLayer.Services.General
+namespace BusinessLogicLayer.Repositories.General
 {
     public interface ITodoService
     {
