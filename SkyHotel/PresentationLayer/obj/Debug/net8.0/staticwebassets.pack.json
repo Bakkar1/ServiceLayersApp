@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\mbark\\Documents\\GitHub\\Mk_Hotel\\SkyHotel\\PresentationLayer\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\PresentationLayer.bundle.scp.css",
+      "PackagePath": "staticwebassets\\PresentationLayer.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\mbark\\Documents\\GitHub\\Mk_Hotel\\SkyHotel\\PresentationLayer\\wwwroot\\background.png",
+      "PackagePath": "staticwebassets\\background.png"
+    },
+    {
+      "Id": "C:\\Users\\mbark\\Documents\\GitHub\\Mk_Hotel\\SkyHotel\\PresentationLayer\\wwwroot\\exampleJsInterop.js",
+      "PackagePath": "staticwebassets\\exampleJsInterop.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.PresentationLayer.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.PresentationLayer.props",
+      "PackagePath": "build\\PresentationLayer.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.PresentationLayer.props",
+      "PackagePath": "buildMultiTargeting\\PresentationLayer.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.PresentationLayer.props",
+      "PackagePath": "buildTransitive\\PresentationLayer.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

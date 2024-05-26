@@ -1,0 +1,89 @@
+﻿@inject ITodoService todoService
+@using Microsoft.AspNetCore.Components.Forms
+@page "/todos"
+
+<EditForm Model="@todo">
+    <div class="mb-3">
+        <label for="todoItem" class="form-label">Todo Item</label>
+        <InputText @bind-Value="todo.Name" class="form-control" id="todoItem"/>
+        <button class="btn btn-primary" @onclick="AddTodo">Add</button>
+    </div>
+</EditForm>
+
+<hr/>
+
+<h3>Todos</h3>
+@if (todos.Any())
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Name</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in todos)
+            {
+                <tr>
+                    <td>@item.Id</td>
+                    <td>@item.Name</td>
+                    @if (item.IsCompleted)
+                    {
+                        <td>
+                            <button class="btn btn-success">Completed</button>
+                        </td>
+                    }
+                    else
+                    {
+                        <td>
+                            <button class="btn btn-info" @onclick="() => CompleteTodo(item.Id)">Complete</button>
+                        </td>
+                    }
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p class="text-warning">No Item Was Founded!</p>
+}
+
+@code {
+    private List<TodoItem> todos = new();
+    private TodoItem todo = new();
+
+    protected override async Task OnInitializedAsync()
+    {
+        todos = await todoService.GetTodos();
+    }
+    private async Task AddTodo()
+    {
+        todo.IsCompleted = false;
+        bool result = await todoService.AddTodo(todo);
+        if(result is true)
+        {
+            todos.Add(todo);
+            todo = new();
+        }
+        else
+        {
+            // error
+        }        
+    }
+    private async Task CompleteTodo(int todoId)
+    {
+        bool isCompleted = await todoService.CompleteTodo(todoId);
+        if (isCompleted)
+        {
+            var todoItem = todos.SingleOrDefault(t => t.Id == todoId);
+            todoItem.IsCompleted = true;
+        }
+        else
+        {
+            // not completed
+        }
+    }
+}

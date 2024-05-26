@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mbark\\Documents\\GitHub\\Mk_Hotel\\SkyHotel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA525D7-4214-454F-9AB5-5E9B28703C89}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\mbark\\documents\\github\\mk_hotel\\skyhotel\\presentationlayer\\todocontrol.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CA525D7-4214-454F-9AB5-5E9B28703C89}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\todocontrol.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B64457F-8410-4493-8B80-2867C049DB4F}|BusinessLogicLayer\\BusinessLogicLayer.csproj|C:\\Users\\mbark\\Documents\\GitHub\\Mk_Hotel\\SkyHotel\\businesslogiclayer\\services\\general\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B64457F-8410-4493-8B80-2867C049DB4F}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\services\\general\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TodoService.cs",
+              "DocumentMoniker": "C:\\Users\\mbark\\Documents\\GitHub\\Mk_Hotel\\SkyHotel\\BusinessLogicLayer\\Services\\General\\TodoService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Services\\General\\TodoService.cs",
+              "ToolTip": "C:\\Users\\mbark\\Documents\\GitHub\\Mk_Hotel\\SkyHotel\\BusinessLogicLayer\\Services\\General\\TodoService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Services\\General\\TodoService.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA5wCUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T15:17:17.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TodoControl.razor",
+              "DocumentMoniker": "C:\\Users\\mbark\\Documents\\GitHub\\Mk_Hotel\\SkyHotel\\PresentationLayer\\TodoControl.razor",
+              "RelativeDocumentMoniker": "PresentationLayer\\TodoControl.razor",
+              "ToolTip": "C:\\Users\\mbark\\Documents\\GitHub\\Mk_Hotel\\SkyHotel\\PresentationLayer\\TodoControl.razor",
+              "RelativeToolTip": "PresentationLayer\\TodoControl.razor",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACIAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T14:58:54.548Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
